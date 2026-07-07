@@ -1,0 +1,10 @@
+{
+  "name": "УЗИ волемия",
+  "short_name": "Волемия",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#2c7da0",
+  "description": "Калькулятор волемического статуса по сонным артериям: ΔVpeak и cFT",
+  "icons": []
+}
